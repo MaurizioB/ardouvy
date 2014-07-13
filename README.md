@@ -9,7 +9,7 @@ Please note that this is still a beta/debug release, intended just for testing
 and still not complete. Don't yell at me, it's still a work in progress and,
 much more important, I'm a musician, not a programmer :)
 
-![alt text](jidesk.net/ardouvy/monitor-0.6.png "ArdouVy screenshot")
+![alt text](http://jidesk.net/ardouvy/monitor-0.6.png "ArdouVy screenshot")
 
 
 What does it do?
